@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Exploding eggs",
+        "name": "Explosing eggs",
+        "uuid": "c2411596-587e-4765-bc04-6a6b333e150a",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Example vanilla behavior pack",
+            "type": "data",
+            "uuid": "a0c449a8-6ebc-490b-a572-8da2894b0ec8",
+            "version": [0, 0, 1]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "99df687b-f7df-4f11-9f1f-17426199f89d",
+            "version": [0, 0, 1]
+        }
+    ]
+}
